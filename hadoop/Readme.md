@@ -84,13 +84,13 @@ $ time make test
 >
   *(with combiner, input data: large)*
 ```
-real	1m15.621s
-user	0m16.128s
-sys	    0m1.388s
+real    1m15.621s
+user    0m16.128s
+sys     0m1.388s
 ```
   *(without combiner, input data: large)*
 ```
-real	2m59.473s
-user	0m16.580s
-sys	    0m1.580s
+real    2m59.473s
+user    0m16.580s
+sys     0m1.580s
 ```
